@@ -1,7 +1,30 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="solaro_sede_presenze.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connessione_solaro1_remota" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/program files/winfarm/archivi/arc2000.phs</Value>
+    </Setting>
+    <Setting Name="connessione_solaro2_remota" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/program files/winfarm/archivi/arc2000.phs</Value>
+    </Setting>
+    <Setting Name="connessione_solaro1_locale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/program files/winfarm/archivi/arc2000.phs</Value>
+    </Setting>
+    <Setting Name="connessione_solaro2_locale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:/program files/winfarm/archivi/arc2000.phs</Value>
+    </Setting>
+    <Setting Name="ip_solaro1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="ip_solaro2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="ip_solaro1_locale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="ip_solaro2_locale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
